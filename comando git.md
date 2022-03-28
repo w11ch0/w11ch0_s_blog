@@ -39,6 +39,11 @@
 > git commit -m "Mensaje a Escribir"
 
 
+`8. Log de Historial`
+> git los historia.txt
+
+
+
 -----------
 
 
