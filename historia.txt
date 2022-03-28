@@ -3,4 +3,6 @@ Esta es la historia de Mauricio Montes usando Git
 
 Mauricio Montes tiene 39 años y nació en El Salvador.
 
+Viviendo en todo el mundo.
+
 Hoy hablaremos de su historia.
