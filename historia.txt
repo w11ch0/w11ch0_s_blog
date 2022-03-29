@@ -8,3 +8,5 @@ Viviendo en todo el mundo.
 Hoy hablaremos de su historia.
 
 Vamos a modificar este archivo
+
+En camara parece alto, pero la verdad no es tan alto.
