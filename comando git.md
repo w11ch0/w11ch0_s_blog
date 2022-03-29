@@ -42,6 +42,10 @@
 `8. Log de Historial`
 > git los historia.txt
 
+`9. Muestra los cambios que ha tenido un archivo`
+> git show
+
+
 
 
 -----------
