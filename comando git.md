@@ -54,6 +54,22 @@
 `11. Borrar Todo vuelve `
 > git reset 0dd31cd452d7e65a6aa90609ed74f034dd625b1c --hard
 
+`12. Verificar como era cierto archivo`
+> git checkout 0dd31cd452d7e65a6aa90609ed74f034dd625b1c historia.txt
+
+
+`esto volvera a un archivo a su estado solicitado, por lo tanto verificamos...`
+> git status 
+
+`volvemos a llamar la rama que queremos del archivo y volveremos a verlo tal cual la ultima modificacion`
+> git master historia.txt
+
+
+
+
+
+
+
 
 
 -----------
