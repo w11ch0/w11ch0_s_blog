@@ -48,6 +48,11 @@
 `10. Ver diferencias entre un cambio y otro cambio del archivo`
 > git diff 0dd31cd452d7e65a6aa90609ed74f034dd625b1c 2edc9e1012f27b83ebe74133b2f4e8419c2eb5b3
 
+`10. Volver a una version específica`
+> git reset 0dd31cd452d7e65a6aa90609ed74f034dd625b1c --soft
+
+`11. Borrar Todo vuelve `
+> git reset 0dd31cd452d7e65a6aa90609ed74f034dd625b1c --hard
 
 
 
