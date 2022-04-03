@@ -57,6 +57,12 @@
 `12. Verificar como era cierto archivo`
 > git checkout 0dd31cd452d7e65a6aa90609ed74f034dd625b1c historia.txt
 
+`13. actualiza archivos modificados previamente ya que se ha realizado commit`
+> git commit -am "mensaje...."
+
+
+
+
 
 `esto volvera a un archivo a su estado solicitado, por lo tanto verificamos...`
 > git status 
