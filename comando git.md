@@ -60,6 +60,11 @@
 `13. actualiza archivos modificados previamente ya que se ha realizado commit`
 > git commit -am "mensaje...."
 
+`14. Nombrar a una rama`
+> git branch NombreDeRama
+
+`15. Cambiarse a una rama`
+> git checkout NombreDeRama
 
 
 
