@@ -66,6 +66,11 @@
 `15. Cambiarse a una rama`
 > git checkout NombreDeRama
 
+`16. Fusionando las ramas`
+> git merge cabecera 
+
+`17. Si no se sabe la rama`
+> git branch
 
 
 
